@@ -1,0 +1,4 @@
+## Week 1 – Modeling an Object as a Java Class
+Model a real-life object as a Java class with at least one attribute and an instance method. Write a main method to create an instance of the class, assign a value to the attribute, call your method, and demonstrate that the value of the attribute changed and that the method successfully completed what it was supposed to do. The main method can be created in a separate driver class (e.g. MyDriver.java) within which you will create an instance of the object class. For example, if the name of the object class is Car (meaning, you are coding Car.java) then you can create an instance of Car inside MyDriver.java.
+
+Be sure to create a program different from any of the programs already posted by your classmates or the examples in-class materials.
